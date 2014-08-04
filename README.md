@@ -20,4 +20,4 @@ download the "" and Import into the database
 How To use:
 ===========
 
-Download the pre-compiled .NET MOS interface is available at https://github.com/westernpilot/MOS-User_Interface-for-Windows/ and create a folder with name "vipo12" in drive "c:/" and place the videos in the "C:/vipo12/" and follow to follow to "WindowsFormsApplication12/bin/Debug/" and run the "WindowsFormsApplication12.exe" to start.
+Download the pre-compiled .NET MOS interface is available at https://github.com/westernpilot/MOS-User_Interface-for-Windows/ and create a folder with name "vipo12" in drive "c:/" and place the videos in the "C:/vipo12/" and follow to follow to "/WindowsFormsApplication12/bin/Debug/" and run the "WindowsFormsApplication12.exe" to start.
