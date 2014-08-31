@@ -1,7 +1,7 @@
 MOS-User_Interface-for-Windows OS
 ==================================
 
-This User interface for MOS is developed using C#.NET using windows media player activex control.
+This User interface for MOS is developed using C#.NET and windows media player activex control component.
 
 Requirements:
 =============
